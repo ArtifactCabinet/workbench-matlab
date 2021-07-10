@@ -8,6 +8,7 @@
 
 % TODO -> 
 [X,Y] = meshgrid(0:3,0:4);
-disp(X+Y);
+Z=X+Y;
+disp(Z);
 
 plus_minus(1,2);
